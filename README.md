@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Internet Gangster
+- 🎓 &nbsp; Comp Sci student, Cyber Security researcher
 
 
 ### 🛠 Tech Stuff: 
