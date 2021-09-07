@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Comp Sci student, Cyber Security researcher
+- 🎓 &nbsp; Comp Sci student, Security Researcher
 
 
 ### 🛠 Tech Stuff: 
