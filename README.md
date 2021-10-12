@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Comp Sci student, Security Researcher
+- 🎓 &nbsp; Comp Sci student, Game Dev, Security Researcher
 
 
 ### 🛠 Tech Stuff: 
